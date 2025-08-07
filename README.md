@@ -1,4 +1,4 @@
-# Jalaali
+# GoJalali
 
 This package is based on the original work from [go-jalali](https://github.com/jalaali/go-jalaali).
 

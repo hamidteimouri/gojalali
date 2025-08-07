@@ -1,4 +1,4 @@
-package jalaali
+package gojalali
 
 import "fmt"
 
